@@ -1,6 +1,6 @@
 My website:
 http://www.alex-warren.co.uk
 
-My other projects:
+Personal Projects:
 
 https://www.equalib.com - An online, globally competitive, daily maths challenge!
