@@ -1,9 +1,9 @@
 **Education:**
 MSc Computer Science (Artificial intelligence Stream) - City University Of Hong Kong 2023 \
-BSc Computer Science - Swansea University 2022 \
+BSc Computer Science - Swansea University 2022 \n
 
 **My Website:** 
-http://www.alex-warren.co.uk \
+http://www.alex-warren.co.uk \n
 
 **Personal Projects:**
-https://www.equalib.com - An online, globally competitive, daily maths challenge! \
+https://www.equalib.com - An online, globally competitive, daily maths challenge! \n
