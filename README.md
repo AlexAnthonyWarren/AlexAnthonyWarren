@@ -1,4 +1,5 @@
 **Education:**  
+Ongoing PhD Computer Science - Swansea University 
 
 MSc Computer Science (Artificial Intelligence Stream) - City University Of Hong Kong 2023  
 
